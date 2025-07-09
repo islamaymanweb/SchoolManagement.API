@@ -1,0 +1,288 @@
+2025-06-28 02:05:04.169 +03:00 [INF] Application is starting
+2025-06-28 02:05:04.282 +03:00 [INF] User profile is available. Using 'C:\Users\AS\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2025-06-28 02:05:04.395 +03:00 [WRN] The WebRootPath was not found: C:\Users\AS\Desktop\SchoolManagement  -.Net-Angular\SchoolManagement.API\SchoolManagement.API\wwwroot. Static files may be unavailable.
+2025-06-28 02:05:04.525 +03:00 [INF] Now listening on: https://localhost:7278
+2025-06-28 02:05:04.529 +03:00 [INF] Now listening on: http://localhost:5293
+2025-06-28 02:05:04.533 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-06-28 02:05:04.534 +03:00 [INF] Hosting environment: Development
+2025-06-28 02:05:04.536 +03:00 [INF] Content root path: C:\Users\AS\Desktop\SchoolManagement  -.Net-Angular\SchoolManagement.API\SchoolManagement.API
+2025-06-28 02:05:11.755 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7278/swagger - null null
+2025-06-28 02:05:11.965 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7278/swagger - 301 0 null 222.9814ms
+2025-06-28 02:05:11.973 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7278/swagger/index.html - null null
+2025-06-28 02:05:12.109 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7278/swagger/index.html - 200 null text/html;charset=utf-8 136.1041ms
+2025-06-28 02:05:12.110 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7278/swagger/swagger-ui-bundle.js - null null
+2025-06-28 02:05:12.110 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7278/swagger/swagger-ui.css - null null
+2025-06-28 02:05:12.110 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7278/swagger/swagger-ui-standalone-preset.js - null null
+2025-06-28 02:05:12.159 +03:00 [INF] Sending file. Request path: '/swagger-ui-standalone-preset.js'. Physical path: 'N/A'
+2025-06-28 02:05:12.160 +03:00 [INF] Sending file. Request path: '/swagger-ui.css'. Physical path: 'N/A'
+2025-06-28 02:05:12.165 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7278/swagger/swagger-ui-standalone-preset.js - 200 339486 text/javascript 54.3637ms
+2025-06-28 02:05:12.165 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7278/swagger/swagger-ui.css - 200 143943 text/css 54.5082ms
+2025-06-28 02:05:12.170 +03:00 [INF] Sending file. Request path: '/swagger-ui-bundle.js'. Physical path: 'N/A'
+2025-06-28 02:05:12.175 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7278/_framework/aspnetcore-browser-refresh.js - null null
+2025-06-28 02:05:12.179 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7278/swagger/swagger-ui-bundle.js - 200 1096145 text/javascript 68.9219ms
+2025-06-28 02:05:12.192 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7278/_framework/aspnetcore-browser-refresh.js - 200 13776 application/javascript; charset=utf-8 17.2758ms
+2025-06-28 02:05:12.194 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7278/_vs/browserLink - null null
+2025-06-28 02:05:12.281 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7278/_vs/browserLink - 200 null text/javascript; charset=UTF-8 86.7434ms
+2025-06-28 02:05:12.476 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7278/swagger/v1/swagger.json - null null
+2025-06-28 02:05:12.508 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7278/swagger/favicon-32x32.png - null null
+2025-06-28 02:05:12.513 +03:00 [INF] Sending file. Request path: '/favicon-32x32.png'. Physical path: 'N/A'
+2025-06-28 02:05:12.517 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7278/swagger/favicon-32x32.png - 200 628 image/png 9.6556ms
+2025-06-28 02:05:12.660 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7278/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 184.4629ms
+2025-06-28 02:05:48.799 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7278/swagger/index.html - null null
+2025-06-28 02:05:48.813 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7278/swagger/index.html - 200 null text/html;charset=utf-8 14.2322ms
+2025-06-28 02:05:48.824 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7278/_vs/browserLink - null null
+2025-06-28 02:05:48.824 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7278/_framework/aspnetcore-browser-refresh.js - null null
+2025-06-28 02:05:48.837 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7278/_framework/aspnetcore-browser-refresh.js - 200 13776 application/javascript; charset=utf-8 13.1091ms
+2025-06-28 02:05:48.852 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7278/_vs/browserLink - 200 null text/javascript; charset=UTF-8 28.619ms
+2025-06-28 02:05:48.935 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7278/swagger/v1/swagger.json - null null
+2025-06-28 02:05:48.956 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7278/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 21.0332ms
+2025-06-28 02:07:08.242 +03:00 [INF] Executed DbCommand (366ms) [Parameters=[], CommandType='"Text"', CommandTimeout='60']
+CREATE DATABASE [SchoolManagment];
+2025-06-28 02:07:08.425 +03:00 [INF] Executed DbCommand (141ms) [Parameters=[], CommandType='"Text"', CommandTimeout='60']
+IF SERVERPROPERTY('EngineEdition') <> 5
+BEGIN
+    ALTER DATABASE [SchoolManagment] SET READ_COMMITTED_SNAPSHOT ON;
+END;
+2025-06-28 02:07:08.443 +03:00 [INF] Executed DbCommand (6ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT 1
+2025-06-28 02:07:08.511 +03:00 [INF] Executed DbCommand (10ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE TABLE [__EFMigrationsHistory] (
+    [MigrationId] nvarchar(150) NOT NULL,
+    [ProductVersion] nvarchar(32) NOT NULL,
+    CONSTRAINT [PK___EFMigrationsHistory] PRIMARY KEY ([MigrationId])
+);
+2025-06-28 02:07:08.512 +03:00 [INF] Executed DbCommand (0ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT 1
+2025-06-28 02:07:08.527 +03:00 [INF] Executed DbCommand (13ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT OBJECT_ID(N'[__EFMigrationsHistory]');
+2025-06-28 02:07:08.537 +03:00 [INF] Executed DbCommand (8ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [MigrationId], [ProductVersion]
+FROM [__EFMigrationsHistory]
+ORDER BY [MigrationId];
+2025-06-28 02:07:08.555 +03:00 [INF] Applying migration '20250627230654_CreateDb'.
+2025-06-28 02:07:08.649 +03:00 [INF] Executed DbCommand (5ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE TABLE [AspNetRoles] (
+    [Id] nvarchar(450) NOT NULL,
+    [Name] nvarchar(256) NULL,
+    [NormalizedName] nvarchar(256) NULL,
+    [ConcurrencyStamp] nvarchar(max) NULL,
+    CONSTRAINT [PK_AspNetRoles] PRIMARY KEY ([Id])
+);
+2025-06-28 02:07:08.652 +03:00 [INF] Executed DbCommand (2ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE TABLE [AspNetUsers] (
+    [Id] nvarchar(450) NOT NULL,
+    [IsActive] bit NOT NULL,
+    [DateAdded] datetime2 NOT NULL,
+    [LastSuccessfulLogin] datetime2 NULL,
+    [AdminId] int NULL,
+    [TeacherId] int NULL,
+    [StudentId] int NULL,
+    [UserName] nvarchar(256) NULL,
+    [NormalizedUserName] nvarchar(256) NULL,
+    [Email] nvarchar(256) NULL,
+    [NormalizedEmail] nvarchar(256) NULL,
+    [EmailConfirmed] bit NOT NULL,
+    [PasswordHash] nvarchar(max) NULL,
+    [SecurityStamp] nvarchar(max) NULL,
+    [ConcurrencyStamp] nvarchar(max) NULL,
+    [PhoneNumber] nvarchar(max) NULL,
+    [PhoneNumberConfirmed] bit NOT NULL,
+    [TwoFactorEnabled] bit NOT NULL,
+    [LockoutEnd] datetimeoffset NULL,
+    [LockoutEnabled] bit NOT NULL,
+    [AccessFailedCount] int NOT NULL,
+    CONSTRAINT [PK_AspNetUsers] PRIMARY KEY ([Id])
+);
+2025-06-28 02:07:08.656 +03:00 [INF] Executed DbCommand (4ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE TABLE [Subjects] (
+    [Id] int NOT NULL IDENTITY,
+    [Name] nvarchar(max) NOT NULL,
+    [CreatedAt] datetime2 NOT NULL,
+    [UpdatedAt] datetime2 NOT NULL,
+    CONSTRAINT [PK_Subjects] PRIMARY KEY ([Id])
+);
+2025-06-28 02:07:08.659 +03:00 [INF] Executed DbCommand (3ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE TABLE [AspNetRoleClaims] (
+    [Id] int NOT NULL IDENTITY,
+    [RoleId] nvarchar(450) NOT NULL,
+    [ClaimType] nvarchar(max) NULL,
+    [ClaimValue] nvarchar(max) NULL,
+    CONSTRAINT [PK_AspNetRoleClaims] PRIMARY KEY ([Id]),
+    CONSTRAINT [FK_AspNetRoleClaims_AspNetRoles_RoleId] FOREIGN KEY ([RoleId]) REFERENCES [AspNetRoles] ([Id]) ON DELETE CASCADE
+);
+2025-06-28 02:07:08.661 +03:00 [INF] Executed DbCommand (2ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE TABLE [Admins] (
+    [Id] int NOT NULL IDENTITY,
+    [FirstName] nvarchar(max) NOT NULL,
+    [LastName] nvarchar(max) NOT NULL,
+    [UserId] nvarchar(450) NOT NULL,
+    CONSTRAINT [PK_Admins] PRIMARY KEY ([Id]),
+    CONSTRAINT [FK_Admins_AspNetUsers_UserId] FOREIGN KEY ([UserId]) REFERENCES [AspNetUsers] ([Id]) ON DELETE NO ACTION
+);
+2025-06-28 02:07:08.663 +03:00 [INF] Executed DbCommand (2ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE TABLE [AspNetUserClaims] (
+    [Id] int NOT NULL IDENTITY,
+    [UserId] nvarchar(450) NOT NULL,
+    [ClaimType] nvarchar(max) NULL,
+    [ClaimValue] nvarchar(max) NULL,
+    CONSTRAINT [PK_AspNetUserClaims] PRIMARY KEY ([Id]),
+    CONSTRAINT [FK_AspNetUserClaims_AspNetUsers_UserId] FOREIGN KEY ([UserId]) REFERENCES [AspNetUsers] ([Id]) ON DELETE CASCADE
+);
+2025-06-28 02:07:08.667 +03:00 [INF] Executed DbCommand (4ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE TABLE [AspNetUserLogins] (
+    [LoginProvider] nvarchar(450) NOT NULL,
+    [ProviderKey] nvarchar(450) NOT NULL,
+    [ProviderDisplayName] nvarchar(max) NULL,
+    [UserId] nvarchar(450) NOT NULL,
+    CONSTRAINT [PK_AspNetUserLogins] PRIMARY KEY ([LoginProvider], [ProviderKey]),
+    CONSTRAINT [FK_AspNetUserLogins_AspNetUsers_UserId] FOREIGN KEY ([UserId]) REFERENCES [AspNetUsers] ([Id]) ON DELETE CASCADE
+);
+2025-06-28 02:07:08.670 +03:00 [INF] Executed DbCommand (2ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE TABLE [AspNetUserRoles] (
+    [UserId] nvarchar(450) NOT NULL,
+    [RoleId] nvarchar(450) NOT NULL,
+    CONSTRAINT [PK_AspNetUserRoles] PRIMARY KEY ([UserId], [RoleId]),
+    CONSTRAINT [FK_AspNetUserRoles_AspNetRoles_RoleId] FOREIGN KEY ([RoleId]) REFERENCES [AspNetRoles] ([Id]) ON DELETE CASCADE,
+    CONSTRAINT [FK_AspNetUserRoles_AspNetUsers_UserId] FOREIGN KEY ([UserId]) REFERENCES [AspNetUsers] ([Id]) ON DELETE CASCADE
+);
+2025-06-28 02:07:08.672 +03:00 [INF] Executed DbCommand (2ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE TABLE [AspNetUserTokens] (
+    [UserId] nvarchar(450) NOT NULL,
+    [LoginProvider] nvarchar(450) NOT NULL,
+    [Name] nvarchar(450) NOT NULL,
+    [Value] nvarchar(max) NULL,
+    CONSTRAINT [PK_AspNetUserTokens] PRIMARY KEY ([UserId], [LoginProvider], [Name]),
+    CONSTRAINT [FK_AspNetUserTokens_AspNetUsers_UserId] FOREIGN KEY ([UserId]) REFERENCES [AspNetUsers] ([Id]) ON DELETE CASCADE
+);
+2025-06-28 02:07:09.179 +03:00 [INF] Executed DbCommand (2ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE TABLE [Teachers] (
+    [Id] int NOT NULL IDENTITY,
+    [FirstName] nvarchar(max) NOT NULL,
+    [LastName] nvarchar(max) NOT NULL,
+    [UserId] nvarchar(450) NOT NULL,
+    CONSTRAINT [PK_Teachers] PRIMARY KEY ([Id]),
+    CONSTRAINT [FK_Teachers_AspNetUsers_UserId] FOREIGN KEY ([UserId]) REFERENCES [AspNetUsers] ([Id]) ON DELETE NO ACTION
+);
+2025-06-28 02:07:09.181 +03:00 [INF] Executed DbCommand (2ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE TABLE [Classes] (
+    [Id] int NOT NULL IDENTITY,
+    [Name] nvarchar(max) NOT NULL,
+    [CreatedAt] datetime2 NOT NULL,
+    [UpdatedAt] datetime2 NOT NULL,
+    [HomeroomTeacherId] int NULL,
+    CONSTRAINT [PK_Classes] PRIMARY KEY ([Id]),
+    CONSTRAINT [FK_Classes_Teachers_HomeroomTeacherId] FOREIGN KEY ([HomeroomTeacherId]) REFERENCES [Teachers] ([Id]) ON DELETE SET NULL
+);
+2025-06-28 02:07:09.184 +03:00 [INF] Executed DbCommand (3ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE TABLE [ClassSubjects] (
+    [Id] int NOT NULL IDENTITY,
+    [ClassId] int NOT NULL,
+    [SubjectId] int NOT NULL,
+    [TeacherId] int NOT NULL,
+    CONSTRAINT [PK_ClassSubjects] PRIMARY KEY ([Id]),
+    CONSTRAINT [FK_ClassSubjects_Classes_ClassId] FOREIGN KEY ([ClassId]) REFERENCES [Classes] ([Id]) ON DELETE CASCADE,
+    CONSTRAINT [FK_ClassSubjects_Subjects_SubjectId] FOREIGN KEY ([SubjectId]) REFERENCES [Subjects] ([Id]) ON DELETE CASCADE,
+    CONSTRAINT [FK_ClassSubjects_Teachers_TeacherId] FOREIGN KEY ([TeacherId]) REFERENCES [Teachers] ([Id]) ON DELETE CASCADE
+);
+2025-06-28 02:07:09.187 +03:00 [INF] Executed DbCommand (3ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE TABLE [Schedules] (
+    [Id] int NOT NULL IDENTITY,
+    [CreatedAt] datetime2 NOT NULL,
+    [UpdatedAt] datetime2 NULL,
+    [ClassId] int NOT NULL,
+    [SubjectId] int NOT NULL,
+    [TeacherId] int NOT NULL,
+    [DayOfWeek] int NOT NULL,
+    [StartTime] time NOT NULL,
+    CONSTRAINT [PK_Schedules] PRIMARY KEY ([Id]),
+    CONSTRAINT [FK_Schedules_Classes_ClassId] FOREIGN KEY ([ClassId]) REFERENCES [Classes] ([Id]) ON DELETE CASCADE,
+    CONSTRAINT [FK_Schedules_Subjects_SubjectId] FOREIGN KEY ([SubjectId]) REFERENCES [Subjects] ([Id]) ON DELETE CASCADE,
+    CONSTRAINT [FK_Schedules_Teachers_TeacherId] FOREIGN KEY ([TeacherId]) REFERENCES [Teachers] ([Id]) ON DELETE CASCADE
+);
+2025-06-28 02:07:09.190 +03:00 [INF] Executed DbCommand (3ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE TABLE [Students] (
+    [Id] int NOT NULL IDENTITY,
+    [FirstName] nvarchar(max) NOT NULL,
+    [LastName] nvarchar(max) NOT NULL,
+    [ClassId] int NULL,
+    [UserId] nvarchar(450) NOT NULL,
+    CONSTRAINT [PK_Students] PRIMARY KEY ([Id]),
+    CONSTRAINT [FK_Students_AspNetUsers_UserId] FOREIGN KEY ([UserId]) REFERENCES [AspNetUsers] ([Id]) ON DELETE NO ACTION,
+    CONSTRAINT [FK_Students_Classes_ClassId] FOREIGN KEY ([ClassId]) REFERENCES [Classes] ([Id]) ON DELETE NO ACTION
+);
+2025-06-28 02:07:09.194 +03:00 [INF] Executed DbCommand (4ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE TABLE [Attendances] (
+    [Id] int NOT NULL IDENTITY,
+    [Comment] nvarchar(max) NULL,
+    [ModifiedByUserId] nvarchar(max) NULL,
+    [StudentId] int NOT NULL,
+    [ScheduleId] int NOT NULL,
+    [Date] datetime2 NOT NULL,
+    [Status] int NOT NULL,
+    CONSTRAINT [PK_Attendances] PRIMARY KEY ([Id]),
+    CONSTRAINT [FK_Attendances_Schedules_ScheduleId] FOREIGN KEY ([ScheduleId]) REFERENCES [Schedules] ([Id]) ON DELETE CASCADE,
+    CONSTRAINT [FK_Attendances_Students_StudentId] FOREIGN KEY ([StudentId]) REFERENCES [Students] ([Id]) ON DELETE CASCADE
+);
+2025-06-28 02:07:12.365 +03:00 [INF] Executed DbCommand (3ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE TABLE [Grades] (
+    [Id] int NOT NULL IDENTITY,
+    [StudentId] int NOT NULL,
+    [SubjectId] int NOT NULL,
+    [TeacherId] int NOT NULL,
+    [Value] int NOT NULL,
+    [Comment] nvarchar(max) NULL,
+    [Date] datetime2 NOT NULL,
+    CONSTRAINT [PK_Grades] PRIMARY KEY ([Id]),
+    CONSTRAINT [FK_Grades_Students_StudentId] FOREIGN KEY ([StudentId]) REFERENCES [Students] ([Id]) ON DELETE CASCADE,
+    CONSTRAINT [FK_Grades_Subjects_SubjectId] FOREIGN KEY ([SubjectId]) REFERENCES [Subjects] ([Id]) ON DELETE CASCADE,
+    CONSTRAINT [FK_Grades_Teachers_TeacherId] FOREIGN KEY ([TeacherId]) REFERENCES [Teachers] ([Id]) ON DELETE CASCADE
+);
+2025-06-28 02:07:12.370 +03:00 [INF] Executed DbCommand (5ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE UNIQUE INDEX [IX_Admins_UserId] ON [Admins] ([UserId]);
+2025-06-28 02:07:12.371 +03:00 [INF] Executed DbCommand (1ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE INDEX [IX_AspNetRoleClaims_RoleId] ON [AspNetRoleClaims] ([RoleId]);
+2025-06-28 02:07:12.375 +03:00 [INF] Executed DbCommand (3ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE UNIQUE INDEX [RoleNameIndex] ON [AspNetRoles] ([NormalizedName]) WHERE [NormalizedName] IS NOT NULL;
+2025-06-28 02:07:12.376 +03:00 [INF] Executed DbCommand (1ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE INDEX [IX_AspNetUserClaims_UserId] ON [AspNetUserClaims] ([UserId]);
+2025-06-28 02:07:12.378 +03:00 [INF] Executed DbCommand (2ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE INDEX [IX_AspNetUserLogins_UserId] ON [AspNetUserLogins] ([UserId]);
+2025-06-28 02:07:12.379 +03:00 [INF] Executed DbCommand (1ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE INDEX [IX_AspNetUserRoles_RoleId] ON [AspNetUserRoles] ([RoleId]);
+2025-06-28 02:07:12.380 +03:00 [INF] Executed DbCommand (1ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE INDEX [EmailIndex] ON [AspNetUsers] ([NormalizedEmail]);
+2025-06-28 02:07:12.381 +03:00 [INF] Executed DbCommand (1ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE UNIQUE INDEX [UserNameIndex] ON [AspNetUsers] ([NormalizedUserName]) WHERE [NormalizedUserName] IS NOT NULL;
+2025-06-28 02:07:12.382 +03:00 [INF] Executed DbCommand (1ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE INDEX [IX_Attendances_ScheduleId] ON [Attendances] ([ScheduleId]);
+2025-06-28 02:07:12.382 +03:00 [INF] Executed DbCommand (1ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE INDEX [IX_Attendances_StudentId] ON [Attendances] ([StudentId]);
+2025-06-28 02:07:12.384 +03:00 [INF] Executed DbCommand (1ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE INDEX [IX_Classes_HomeroomTeacherId] ON [Classes] ([HomeroomTeacherId]);
+2025-06-28 02:07:12.385 +03:00 [INF] Executed DbCommand (1ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE INDEX [IX_ClassSubjects_ClassId] ON [ClassSubjects] ([ClassId]);
+2025-06-28 02:07:12.385 +03:00 [INF] Executed DbCommand (1ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE INDEX [IX_ClassSubjects_SubjectId] ON [ClassSubjects] ([SubjectId]);
+2025-06-28 02:07:12.387 +03:00 [INF] Executed DbCommand (1ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE INDEX [IX_ClassSubjects_TeacherId] ON [ClassSubjects] ([TeacherId]);
+2025-06-28 02:07:12.388 +03:00 [INF] Executed DbCommand (1ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE INDEX [IX_Grades_StudentId] ON [Grades] ([StudentId]);
+2025-06-28 02:07:12.388 +03:00 [INF] Executed DbCommand (1ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE INDEX [IX_Grades_SubjectId] ON [Grades] ([SubjectId]);
+2025-06-28 02:07:12.389 +03:00 [INF] Executed DbCommand (1ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE INDEX [IX_Grades_TeacherId] ON [Grades] ([TeacherId]);
+2025-06-28 02:07:12.390 +03:00 [INF] Executed DbCommand (1ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE INDEX [IX_Schedules_ClassId] ON [Schedules] ([ClassId]);
+2025-06-28 02:07:12.391 +03:00 [INF] Executed DbCommand (1ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE INDEX [IX_Schedules_SubjectId] ON [Schedules] ([SubjectId]);
+2025-06-28 02:07:14.977 +03:00 [INF] Executed DbCommand (1ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE INDEX [IX_Schedules_TeacherId] ON [Schedules] ([TeacherId]);
+2025-06-28 02:07:14.979 +03:00 [INF] Executed DbCommand (2ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE INDEX [IX_Students_ClassId] ON [Students] ([ClassId]);
+2025-06-28 02:07:14.981 +03:00 [INF] Executed DbCommand (1ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE UNIQUE INDEX [IX_Students_UserId] ON [Students] ([UserId]);
+2025-06-28 02:07:14.983 +03:00 [INF] Executed DbCommand (1ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE UNIQUE INDEX [IX_Teachers_UserId] ON [Teachers] ([UserId]);
+2025-06-28 02:07:14.989 +03:00 [INF] Executed DbCommand (6ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+INSERT INTO [__EFMigrationsHistory] ([MigrationId], [ProductVersion])
+VALUES (N'20250627230654_CreateDb', N'8.0.12');
